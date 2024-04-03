@@ -1,0 +1,9 @@
+*{
+    background-color: peru;
+}
+.parent{
+    font-size: 30px;
+}
+.child{
+    font-size: 5rem;
+}
